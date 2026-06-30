@@ -14,8 +14,8 @@
 
 ### 🚀 Featured Projects
 - **EduGen [launching soon]**: An AI-powered SaaS that generates strictly formatted lesson plans according to the national curriculum in under 2 minutes. Built with Next.js, FastAPI, and PostgreSQL.
-- **[KangooFit](#https://github.com/adrianbarbu32/kangoofit)**: A cross-device Android & WearOS fitness app featuring real-time AI form correction and Firebase data synchronization.
-- **[Coffee Invaders](#https://github.com/sebastianm-ionita/CoffeeInvaders)**: A custom 2D game engine built entirely from scratch using C++, OpenGL, and GLFW, featuring custom renderers.
+- **[KangooFit](https://github.com/adrianbarbu32/kangoofit)**: A cross-device Android & WearOS fitness app featuring real-time AI form correction and Firebase data synchronization.
+- **[Coffee Invaders](https://github.com/sebastianm-ionita/CoffeeInvaders)**: A custom 2D game engine built entirely from scratch using C++, OpenGL, and GLFW, featuring custom renderers.
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [sebastianmarius-ionita](https://www.linkedin.com/in/sebastianmarius-ionita)
